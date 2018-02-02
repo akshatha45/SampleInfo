@@ -1,0 +1,19 @@
+{
+  "name": "sampleinfo",
+  "version": "1.0.0",
+  "description": "its for testing packaging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshatha45/SampleInfo.git"
+  },
+  "author": "Akshatha H V",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akshatha45/SampleInfo/issues"
+  },
+  "homepage": "https://github.com/akshatha45/SampleInfo#readme"
+}
